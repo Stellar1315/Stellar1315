@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Stellar </h1>
-<h3>Student at Windesheim, Zwolle.</h3>
-<p font-size="small">1st year of 4</p>
+<h3>Student IT at Windesheim, Zwolle.</h3>
+<p font-size="small">First year of four</p>
 
 <br>
 - 🌱 I’m currently learning JavaScript <br>
