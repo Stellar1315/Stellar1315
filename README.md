@@ -2,7 +2,7 @@
 <h3>Student at Windesheim, Zwolle.</h3>
 
 <br>
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript <br>
 - Familiar with the basics of: Java, PHP, HTML & CSS
 <br>
 
