@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Stellar </h1>
-<h3>Student IT at Windesheim, Zwolle.</h3>
+<h3>Student software engineer at Windesheim, Zwolle.</h3>
 <p font-size="small">First year of four</p>
 
 <br>
