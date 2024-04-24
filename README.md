@@ -3,7 +3,7 @@
 <p font-size="small">First year of four</p>
 
 <br>
-- 🌱 I’m currently learning JavaScript <br>
+- 🌱 I’m currently learning JavaScript (on the side) <br>
 - 📌 Familiar with the basics of: Java, PHP, HTML & CSS
 <br>
 
