@@ -4,7 +4,7 @@
 
 <br>
 - 🌱 I’m currently learning JavaScript (on the side) <br>
-- 📌 Familiar with the basics of: Java, PHP, HTML & CSS
+- 📌 Familiar with the basics of: Java, PHP, MySQL, HTML & CSS
 <br>
 
 <br>
